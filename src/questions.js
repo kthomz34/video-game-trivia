@@ -8,48 +8,47 @@ module.exports = {
 
     "QUESTIONS_EN_US" : [
         {
-            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
+            "Who was imprisoned by Maive Shadowsong for 10,000 years?": [
+                "Illidan",
+                "Thrall",
+                "Jaina",
+                "Varian",
+                "Malfurion",
+                "Tyrande"
             ]
         },
         {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
-                "Japan",
-                "United States",
-                "Finland",
-                "Germany",
-                "Canada",
-                "Norway",
-                "France"
+            "During what expansion did Thousand needles flood?": [
+                "Cataclysm",
+                "Vanilla",
+                "The Frozen Throne",
+                "Legion",
+                "Warlords of Draenor",
+                "Mists of Pandaria"
             ]
         },
         {
-            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pepper Minstix"
+            "Who was Medivh's apprentice?": [
+                "Khadgar",
+                "Jaina",
+                "Antonidas",
+                "Chromie"
             ]
         },
         {
-            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be": [
-                "Girls",
-                "Boys",
-                "Girls and boys",
-                "No way to tell"
+            "What race do all elves share ties to?": [
+                "Trolls",
+                "Tauren",
+                "Orcs",
+                "Draenei"
             ]
         },
         {
-            "What do Reindeer eat?": [
-                "Lichen",
-                "Grasses",
-                "Leaves",
-                "Berries"
+            "What region is the Cavern of Time located in?": [
+                "Tanaris",
+                "Stormwind",
+                "Draenor",
+                "Hillsbrad Foothills"
             ]
         },
         {

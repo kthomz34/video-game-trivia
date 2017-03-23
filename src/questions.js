@@ -5,7 +5,6 @@ module.exports = {
      * When editing your questions pay attention to your punctuation. Make sure you use question marks or periods.
      * Make sure the first answer is the correct one. Set at least ANSWER_COUNT answers, any extras will be shuffled in.
      */
-
     "QUESTIONS_EN_US" : [
         {
             "Who was imprisoned by Maive Shadowsong for 10,000 years?": [
@@ -28,7 +27,7 @@ module.exports = {
             ]
         },
         {
-            "Who was Medivh's apprentice?": [
+            "Who was Medivh\'s apprentice?": [
                 "Khadgar",
                 "Jaina",
                 "Antonidas",
@@ -52,205 +51,123 @@ module.exports = {
             ]
         },
         {
-            "What of the following is not true?": [
-                "Caribou live on all continents",
-                "Both reindeer and Caribou are the same species",
-                "Caribou are bigger than reindeer",
-                "Reindeer live in Scandinavia and Russia"
+            "What legendary sword can be attained from the raid Molten Core?": [
+                "Thunderfury",
+                "Sword of a Thousand Truths",
+                "Felo\'melorn",
+                "Doom hammer"
             ]
         },
         {
-            "In what year did Rudolph make his television debut?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
+            "What is the name of the mountain that borders the Burning Steppes and Searing Gorge?": [
+                "Blackrock Mountain",
+                "Hillsbrad Foothills",
+                "Searing Gorge Mountain",
+                "Iron Forge"
             ]
         },
         {
-            "Who was the voice of Rudolph in the 1964 classic?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
+            "What was Varian Wrynn\'s gladiator slave nickname?": [
+                "Lo\'Gosh",
+                "Lok\'tar",
+                "Reptar",
                 "Lady Gaga"
             ]
         },
         {
-            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
+            "What is Varian Wrynn\'s son's name?": [
+                "Anduin",
+                "Andy",
+                "Anthony",
+                "Andrew"
             ]
         },
         {
-            "Santa\'s reindeer named Donner was originally named what?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
+            "What are the two main factions on Azeroth?": [
+                "Alliance and Horde",
+                "Legion and Orcs",
+                "Humans and Orcs",
+                "Aliens and Predators"
             ]
         },
         {
-            "Who invented the story of Rudolph?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
+            "Who killed Varian Wrynn?": [
+                "Gul\'dan",
+                "Jaina",
+                "Thrall",
+                "Greymane"
             ]
         },
         {
-            "In what location will you not find reindeer?": [
-                "North Pole",
-                "Lapland",
-                "Korvatunturi mountain",
-                "Finland"
+            "What demonic army keeps terrorizing Azeroth?": [
+                "The Burning Legion",
+                "The Old Gods",
+                "The Twilight",
+                "The Dark Iron Dwarves"
             ]
         },
         {
-            "What Makes Santa\'s Reindeer Fly?": [
-                "Magical Reindeer Dust",
-                "Fusion",
-                "Amanita muscaria",
-                "Elves"
+            "What of font of power was at the center of The War of the Ancients?": [
+                "Well of Eternity",
+                "Sunwell",
+                "Mana Well",
+                "Dark Well"
             ]
         },
         {
-            "Including Rudolph, how many reindeer hooves are there?": [
-                "36",
-                "24",
-                "16",
-                "8"
+            "During what war did Azeroth get its shape from?": [
+                "War of the Ancients",
+                "War of the Old Gods",
+                "War of the Titans",
+                "War of the Orcs"
             ]
         },
         {
-            "Santa only has one female reindeer. Which one is it?": [
-                "Vixen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
+            "What font of power did the High Elves use?": [
+                "Sunwell",
+                "Mana Well",
+                "Well of Eternity",
+                "Nightfallen Well"
             ]
         },
         {
-            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
+            "What Azeroth race are the satyrs related to?": [
+                "Night Elves",
+                "Humans",
+                "Orcs",
+                "Gnomes"
             ]
         },
         {
-            "What was Rudolph\'s father\'s name?": [
-                "Donner",
-                "Dasher",
+            "What gateway brought the orcs to Azeroth?": [
+                "The Dark Portal",
+                "The Night Portal",
+                "The Light Portal",
+                "The Great Portal"
+            ]
+        },
+        {
+            "What ancient race is always warring with the Titans?": [
+                "The Old Gods",
                 "Blixen",
-                "Comet"
+                "The Burning Legion",
+                "Orcs"
             ]
         },
         {
-            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
+            "What is the name of the city that floats and where mages study?": [
+                "Dalaran",
+                "Stormwind",
+                "Ironforge",
+                "Tanaris"
             ]
         },
         {
-            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
-            ]
-        },
-        {
-            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
-                "Black mud",
-                "Bag",
-                "Pillow case",
-                "Sock"
-            ]
-        },
-        {
-            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-                "Dentist",
-                "Reindeer",
-                "Toy maker",
-                "Candlestick maker"
-            ]
-        },
-        {
-            "In the 1964 movie,what was the Bumble\'s one weakness?": [
-                "Could not swim",
-                "Always hungry",
-                "Candy canes",
-                "Cross eyed"
-            ]
-        },
-        {
-            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-                "Peppermint",
-                "Gold",
-                "India",
-                "Polar Bears"
-            ]
-        },
-        {
-            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-                "Square wheels",
-                "No Engine",
-                "Paint does not match",
-                "It does not toot"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the Jack in the Box?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
-            ]
-        },
-        {
-            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-                "Storm",
-                "No snow",
-                "No toys",
-                "The Reindeer were sick"
-            ]
-        },
-        {
-            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-                "Oink",
-                "Growl",
-                "Bark",
-                "Meow"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the prospector?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
-            ]
-        },
-        {
-            "How far do reindeer travel when they migrate?": [
-                "3000 miles",
-                "700 miles",
-                "500 miles",
-                "0 miles"
-            ]
-        },
-        {
-            "How fast can a reindeer run?": [
-                "48 miles per hour",
-                "17 miles per hour",
-                "19 miles per hour",
-                "14 miles per hour",
-                "52 miles per hour",
-                "41 miles per hour"
+            "What famous floating necropolis was a raid for players in two different expansions?": [
+                "Naxxramas",
+                "Necromancer",
+                "The Reaper",
+                "The Dark Portal"
             ]
         }
     ]

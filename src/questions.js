@@ -17,7 +17,7 @@ module.exports = {
             ]
         },
         {
-            "During what expansion did Thousand needles flood?": [
+            "During what expansion did the Thousand needles flood?": [
                 "Cataclysm",
                 "Vanilla",
                 "The Frozen Throne",
@@ -27,7 +27,7 @@ module.exports = {
             ]
         },
         {
-            "Who was Medivh\'s apprentice?": [
+            "Who was Medivh's apprentice?": [
                 "Khadgar",
                 "Jaina",
                 "Antonidas",
@@ -54,7 +54,7 @@ module.exports = {
             "What legendary sword can be attained from the raid Molten Core?": [
                 "Thunderfury",
                 "Sword of a Thousand Truths",
-                "Felo\'melorn",
+                "Felo'melorn",
                 "Doom hammer"
             ]
         },
@@ -67,15 +67,15 @@ module.exports = {
             ]
         },
         {
-            "What was Varian Wrynn\'s gladiator slave nickname?": [
-                "Lo\'Gosh",
-                "Lok\'tar",
+            "What was Varian Wrynn's gladiator slave nickname?": [
+                "Low'Gosh",
+                "Lok tar",
                 "Reptar",
                 "Lady Gaga"
             ]
         },
         {
-            "What is Varian Wrynn\'s son's name?": [
+            "What is Varian Wrynn's son's name?": [
                 "Anduin",
                 "Andy",
                 "Anthony",
@@ -92,7 +92,7 @@ module.exports = {
         },
         {
             "Who killed Varian Wrynn?": [
-                "Gul\'dan",
+                "Ghoul dan",
                 "Jaina",
                 "Thrall",
                 "Greymane"
@@ -164,7 +164,7 @@ module.exports = {
         },
         {
             "What famous floating necropolis was a raid for players in two different expansions?": [
-                "Naxxramas",
+                "Naxx ram us",
                 "Necromancer",
                 "The Reaper",
                 "The Dark Portal"
